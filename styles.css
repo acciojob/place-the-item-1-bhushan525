@@ -12,11 +12,9 @@
 	background-color:blue;
 	padding:20px;
 }
-
-.container{
+.holder{
 	display:flex;
 	flex-direction:row;
-	//justify-content:space-around;
-	gap:2px;
+	justify-content:space-between;
 	flex-wrap:wrap;
 }
